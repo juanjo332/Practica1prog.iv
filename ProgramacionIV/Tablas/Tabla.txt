@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Audio y video</title>
+
+</head>
+<body>
+
+<table>
+<tr><th>Alumnos</th>
+    <th>Codigo</th>
+</tr>
+<tr><td>Soto Arechiga Alejandro 1,1</td>
+    <td>Covarrubias Bocanegra Juan Jose 2,1</td>
+    <td>Villarruek Plaza Daniela 3,1</td>
+    <td>Castillo Juarez Tomas Alfonso 4,1</td>
+    <td>Casiano Saucedo Carlos Eduardo 5,1</td>
+ 
+</tr>
+</body>
+</html>
